@@ -30,7 +30,7 @@ p {
 }
 
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted #373a40 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -58,7 +58,7 @@ a:hover {
 }
 
 .middle-container {
-  
+
 
   margin: 100px 0;
 }
